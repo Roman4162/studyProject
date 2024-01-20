@@ -1,5 +1,9 @@
 {
     "Test example": "Тестовый пример",
     "Translate": "Перевод",
-    "Language": "Русский"
+    "Language": "Русский",
+    "Toggle": "Сменить",
+    "Main page": "Главная страница",
+    "About us": "О нас",
+    "Loading": "Загрузка"
 }
