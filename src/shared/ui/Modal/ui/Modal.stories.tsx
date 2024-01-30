@@ -21,11 +21,3 @@ export const Primary: Story = {
         children: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi velit accusantium dicta. Accusamus at sit voluptatum excepturi quaerat! Modi, dicta quod maiores recusandae alias optio deleniti dolore ex deserunt rem?',
     },
 };
-
-export const Dark: Story = {
-    args: {
-        isOpen: true,
-        children: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi velit accusantium dicta. Accusamus at sit voluptatum excepturi quaerat! Modi, dicta quod maiores recusandae alias optio deleniti dolore ex deserunt rem?',
-    },
-    decorators: [ThemeDecorator(Theme.DARK)],
-};
