@@ -19,4 +19,4 @@ export default {
         ThemeDecorator(Theme.LIGHT),
         RouterDecorator,
     ],
-  };
+};

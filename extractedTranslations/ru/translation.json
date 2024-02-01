@@ -1,5 +1,6 @@
 {
   "About us": "About us",
+  "Auth Form": "Auth Form",
   "Decrement": "Decrement",
   "Enter Login": "Enter Login",
   "Enter Password": "Enter Password",
@@ -7,6 +8,7 @@
   "Language": "Language",
   "Loading": "Loading",
   "Login": "Login",
+  "Logout": "Logout",
   "Lorem": "Lorem",
   "Main page": "Main page",
   "Not found page": "Not found page",
@@ -14,6 +16,8 @@
   "Something went wrong": "Something went wrong",
   "Throw error": "Throw error",
   "Toggle": "Toggle",
+  "Wrong login or password": "Wrong login or password",
+  "Вы ввели неверный логин или пароль": "Вы ввели неверный логин или пароль",
   "Главная": "Главная",
   "О сайте": "О сайте"
 }

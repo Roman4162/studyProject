@@ -12,9 +12,12 @@
     "Reload page": "Обновить страницу",
     "Throw error": "Вызвать ошибку",
     "Login": "Войти",
+    "Logout": "Выйти",
     "Lorem": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi velit accusantium dicta. Accusamus at sit voluptatum excepturi quaerat! Modi, dicta quod maiores recusandae alias optio deleniti dolore ex deserunt rem?",
     "Increment": "Прибавить",
     "Decrement": "Отнять",
     "Enter Login": "Введите Логин",
-    "Enter Password": "Введите Пароль"
+    "Enter Password": "Введите Пароль",
+    "Auth Form": "Форма авторизации",
+    "Wrong login or password": "Вы ввели неверный логин или пароль"
 }
